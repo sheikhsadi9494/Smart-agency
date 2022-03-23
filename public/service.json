@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/XY4kTQW/product-description-1.png",
+        "name": "Our Product",
+        "discription": "Our product is made on the base of our team’s careful research and analyses producton and many more, ranging from internet based application."
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/KmcCvgJ/product-description-2.png",
+        "name": "Our Service",
+        "discription": "DSI’s shared service solutions focus on the front-end based software development, designed specifically for the banking and financial sectors."
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/4Jp0xCg/product-description-3.png",
+        "name": "Our Technology",
+        "discription": "First JAVA, runs on more than 850 million personal computers worldwide, and on billions of devices worldwide, including mobile and TV devices."
+    }
+]

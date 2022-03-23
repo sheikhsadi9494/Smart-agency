@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "img": "https://affirm.uicore.co/pages/wp-content/uploads/sites/23/2021/09/About-Us-Member-2.webp",
+        "name": "Erik Genie",
+        "job": "System Analyst"
+    },
+    {
+        "id": 2,
+        "img": "https://affirm.uicore.co/pages/wp-content/uploads/sites/23/2021/09/About-Us-Member-1.webp",
+        "name": "Alex Martinez",
+        "job": "System Analyst"
+    },
+    {
+        "id": 3,
+        "img": "https://affirm.uicore.co/pages/wp-content/uploads/sites/23/2021/09/About-Us-Member-3.webp",
+        "name": "Phoebe Arla",
+        "job": "Programmer"
+    },
+    {
+        "id": 4,
+        "img": "https://affirm.uicore.co/pages/wp-content/uploads/sites/23/2021/09/About-Us-Member-4.webp",
+        "name": "Claudia Arla",
+        "job": "Programmer"
+    }
+]
